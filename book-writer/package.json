@@ -1,0 +1,10 @@
+{
+  "name": "book-writer",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "本平台办公工作空间非虚构长文档写作 Skill",
+  "engines": {
+    "node": ">=22"
+  }
+}
